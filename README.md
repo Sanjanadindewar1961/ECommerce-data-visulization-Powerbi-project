@@ -38,9 +38,7 @@ It is ideal for business analysts, managers, and decision-makers who want data-d
 - Channel selection
 - Dynamic visual updates based on filters
 
-## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./Screenshot%202026-01-22%20201843.png)
 
 ## 🚀 Use Cases
 
